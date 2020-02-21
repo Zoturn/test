@@ -1,0 +1,23 @@
+.collection_container {
+  display: flex;
+  form {
+    label {
+      display: block;
+      span {
+        display: block;
+      }
+    }
+    div {
+      label {
+        span {
+          display: inline;
+        }
+      }
+    }
+  }
+  div {
+    p {
+      text-align: center;
+    }
+  }
+}
